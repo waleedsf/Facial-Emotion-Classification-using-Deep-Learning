@@ -10,3 +10,7 @@ All dependencies are listed in the requirements.txt file. To install them run:
 
 ```pip install -r requirements.txt```
 
+#### Note
+All dependencies listed in requirements.txt are the default dependencies in google coolab notebooks, so it's Preferably to open the notebook in google colab.
+
+
